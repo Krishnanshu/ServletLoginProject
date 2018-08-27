@@ -5,7 +5,7 @@
   <groupId>JavaServletLogin</groupId>
   <artifactId>JavaServletLogin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>JavaServletLogin</name>
   <url>http://maven.apache.org</url>
